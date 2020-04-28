@@ -1,8 +1,7 @@
 name: responsive_reducers
 description: A set of functions and properties that help with responsive sizing and spacing in general.
 version: 0.1.0
-author:
-homepage:
+homepage: https://github.com/FilledStacks/responsive_reducers
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
